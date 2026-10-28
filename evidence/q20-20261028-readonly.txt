@@ -1,0 +1,40 @@
+# Read-only BB10 public evidence
+# Collected at 2026-10-28T07:14:38Z
+# No dialing, service restart, provider load, trust change or PPS write was performed.
+# SIM home PLMN is included; subscriber/device identities are not.
+[hardware]
+MSM8960_V3.2.1.1_F_CLASSICATT_Rev:11
+Board_Type::CLASSICATT
+[os]
+10.3.3.3216
+[firmware-checksums]
+1240815568     945248 /base/sbin/io-pkt-v6-hc
+2819718809    4787852 /radio/bin/ims_rrm
+[ims-public-selected]
+SMS_Format::3GPP
+WiFiCalling_enabled:b:false
+allowVoLteProvisioning:n:0
+[n]default_ran::lte
+default_sys::cellular
+deviceConfig:json:["VoLTE"]
+[n]profiles:json:["IR92"]
+[n]status::idle
+[radio-public-selected]
+active_bands:json:{"cdma":0,"gsm":0,"umts":0,"lte":4}
+band_capability:json:{"cdma":0,"gsm":15,"umts":51,"lte":589919}
+cell_search_status:json:{"status":"not_searching"}
+network_technology:json:["lte"]
+power_status::ON
+[sim-selected-not-identity]
+imsi_hplmn:json:{"mcc":"460","mnc":"00"}
+uicc_state:json:{"state":"READY","add_info":0,"presence":"YES"}
+[data-service-selected]
+data_service_mode::ON
+[ir92-selected]
+SMS_Format::3GPP
+amr_modeset_list::7
+amrwb_modeset_list::2
+[escreens-selected]
+[navigator-dots]
+[boot-software-crypto-line]
+mount -T io-pkt -o disable_swcrypto=1 /lib/dll/devnp-sbgse_drv.so

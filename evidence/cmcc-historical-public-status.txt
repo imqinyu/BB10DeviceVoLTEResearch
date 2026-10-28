@@ -1,0 +1,17 @@
+# Source: round2-ims-start.log
+SMS_Format::3GPP
+allowVoLteProvisioning:n:0
+[n]default_ran::LTE
+deviceConfig:json:["VoLTE"]
+[n]profiles:json:["IR92"]
+[n]status::connected
+
+# Source: round2-native.log
+SMS_Format::3GPP
+allowVoLteProvisioning:n:0
+deviceConfig:json:["VoLTE"]
+
+# Source: round2-refine.log
+SMS_Format::3GPP
+allowVoLteProvisioning:n:0
+deviceConfig:json:["VoLTE"]

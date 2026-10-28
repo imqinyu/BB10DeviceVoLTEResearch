@@ -1,0 +1,45 @@
+LTE_SELECTION
+@status_persistent
+configured_technologies:json:{"enabled":["lte"]}
+power_requested::ON
+scan_mode::AUTO
+swoop_technologies:json:{"enabled":["gsm","umts","cdma_1x","evdo","lte"]}
+CONTROL_RESPONSE
+RADIO_SNAPSHOT_0
+[n]@status_public
+band_capability:json:{"cdma":3,"gsm":15,"umts":179,"lte":4104}
+cell_search_status:json:{"status":"searching","tech":["lte"]}
+power_status::ON
+pps_version:json:{"major":1,"minor":0}
+provider_capability:json:{"tech":["gsm","umts","cdma_1x","evdo","lte"],"services":1287}
+radio_device_info:json:{"modem_fw_version":"M8960C-AAAATAZM-5.0.080146  1  [Feb 04 2016 05:00:00]","SVN":1}
+RADIO_SNAPSHOT_1
+[n]@status_public
+band_capability:json:{"cdma":3,"gsm":15,"umts":179,"lte":4104}
+cell_search_status:json:{"status":"searching","tech":["lte"]}
+power_status::ON
+pps_version:json:{"major":1,"minor":0}
+provider_capability:json:{"tech":["gsm","umts","cdma_1x","evdo","lte"],"services":1287}
+radio_device_info:json:{"modem_fw_version":"M8960C-AAAATAZM-5.0.080146  1  [Feb 04 2016 05:00:00]","SVN":1}
+RADIO_SNAPSHOT_2
+[n]@status_public
+band_capability:json:{"cdma":3,"gsm":15,"umts":179,"lte":4104}
+cell_search_status:json:{"status":"searching","tech":["lte"]}
+power_status::ON
+pps_version:json:{"major":1,"minor":0}
+provider_capability:json:{"tech":["gsm","umts","cdma_1x","evdo","lte"],"services":1287}
+radio_device_info:json:{"modem_fw_version":"M8960C-AAAATAZM-5.0.080146  1  [Feb 04 2016 05:00:00]","SVN":1}
+RADIO_SNAPSHOT_3
+[n]@status_public
+band_capability:json:{"cdma":3,"gsm":15,"umts":179,"lte":4104}
+cell_search_status:json:{"status":"searching","tech":["lte"]}
+power_status::ON
+pps_version:json:{"major":1,"minor":0}
+provider_capability:json:{"tech":["gsm","umts","cdma_1x","evdo","lte"],"services":1287}
+radio_device_info:json:{"modem_fw_version":"M8960C-AAAATAZM-5.0.080146  1  [Feb 04 2016 05:00:00]","SVN":1}
+RESTORED_SELECTION
+@status_persistent
+configured_technologies:json:{"enabled":["gsm","umts","cdma_1x","evdo","lte"]}
+power_requested::ON
+scan_mode::AUTO
+swoop_technologies:json:{"enabled":["gsm","umts","cdma_1x","evdo","lte"]}

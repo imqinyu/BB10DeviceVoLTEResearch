@@ -1,0 +1,20 @@
+[
+  {
+    "component": "io-pkt-v6-hc",
+    "size": 945248,
+    "sha256": "17d2bb5b641b3acd1ffac2e98fbd86c881633263598db983db4819702df3d222",
+    "binary_included": false
+  },
+  {
+    "component": "ims_rrm",
+    "size": 4787852,
+    "sha256": "043d38b0f08cf6a9696ef405f3976679e32ff9ad943ec35294c3d3da69a12b67",
+    "binary_included": false
+  },
+  {
+    "component": "libvpn_adapter_ims.so.1",
+    "size": 42784,
+    "sha256": "ae35be35295280620a37d0add54efe8370a6d74a7363f6a311c03d826c343a57",
+    "binary_included": false
+  }
+]

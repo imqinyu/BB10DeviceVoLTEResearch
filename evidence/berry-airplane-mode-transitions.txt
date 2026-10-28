@@ -1,0 +1,6 @@
+1793111552 VoLTE berry monitor started; update interval 2 seconds
+1793111552 IMS VoLTE connected: berry on
+1793111626 IMS VoLTE disconnected: berry off
+1793111636 IMS VoLTE connected: berry on
+1793111640 IMS VoLTE disconnected: berry off
+1793111654 IMS VoLTE connected: berry on

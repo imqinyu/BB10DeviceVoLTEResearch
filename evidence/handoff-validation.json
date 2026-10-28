@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-28",
+  "scope": "Public research handoff preparation, not a new phone-call qualification run",
+  "baseline_native_build": {
+    "ndk_host_package": "host_10_3_1_12",
+    "ndk_target_package": "target_10_3_1_995/qnx6",
+    "warnings_as_errors": true,
+    "provider_matches_archived_prebuilt": true,
+    "indicator_matches_archived_prebuilt": true,
+    "provider_sha256": "0670e1f8e0c31203b6629c624ac106f2974dc60dd23f2603aa273aa5d8a6f80f",
+    "indicator_sha256": "2f0ccfd02ae0d212c7003bf7f1c584c110bbfb2dbb82b8f14c52ca35467fe710"
+  },
+  "powershell": "All preserved and new PowerShell source files parsed successfully",
+  "new_isolated_probe": "QNX sh -n syntax check only; not executed",
+  "static_analysis_helper": "Checked on a locally owned io-bb copy; found Navigator path and annotated the recorded function address",
+  "connected_phone": "Classic AT&T, China Mobile 460-00, supplying the PC hotspot",
+  "phone_collection": "Read-only field allowlist; LTE attached and IMS idle",
+  "phone_mutations_during_handoff": false,
+  "calls_during_handoff": false,
+  "independent_passport_retest": false,
+  "independent_vzw_retest": false
+}

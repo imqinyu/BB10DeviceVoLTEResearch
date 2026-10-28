@@ -1,0 +1,4 @@
+@cellular_protocol_configuration
+voice_domain_preference_EUTRAN:n:3
+ue_usage_setting::voice_centric
+wcdma_to_lte_ps_ho_support:b:false

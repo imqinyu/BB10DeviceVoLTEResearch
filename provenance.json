@@ -1,0 +1,20 @@
+[
+  {
+    "profile": "classic-att-cmcc",
+    "archive": "distributions/BB10-VoLTE-Easy-1.0.zip",
+    "sha256": "ce32b51a41a1bc84080ee3fa5f8e7db94b56f1eaa4ca88c5d691676fbc57dfaa",
+    "origin": "locally produced and tested"
+  },
+  {
+    "profile": "classic-vzw-unicom",
+    "archive": "distributions/BB10-VoLTE-Unicom-CLASSICVZW-1.0.zip",
+    "sha256": "37b22ec8ad293f87c9489ac58fc391572a5d7d48473e74467b03fec126701d4e",
+    "origin": "user-supplied contributed test distribution"
+  },
+  {
+    "profile": "passport-unicom",
+    "archive": "distributions/BB10-VoLTE-Unicom-Passport-1.1.zip",
+    "sha256": "5616fdfd8d169b47f9397954330b5565eaeccbfbd41471867e5f437e00237d94",
+    "origin": "user-supplied contributed test distribution"
+  }
+]

@@ -1,0 +1,26 @@
+# Build and local device/research data
+build/
+private/
+backups/
+raw-logs/
+__pycache__/
+*.pyc
+*.pem
+*.key
+*.ppk
+id_rsa*
+bb_root_key*
+known_hosts*
+settings.json
+*.pcap
+*.pcapng
+*.tar
+*.i64
+*.idb
+
+# Local vendor firmware copies; fingerprints, not binaries, belong in Git.
+ims_rrm
+io-pkt-v6-hc
+io-bb
+libvpn_adapter_ims.so*
+devnp-sbgse_drv.so

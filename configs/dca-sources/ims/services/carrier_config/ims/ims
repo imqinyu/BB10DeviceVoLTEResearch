@@ -1,0 +1,8 @@
+@ims
+IMS_services:json:[{"service":"voice","feature_tag":"urn:urn-7:3gpp-service.ims.icsi.mmtel","network":["LTE"]}]
+Mobility_Management_IMS_Voice_Termination:n:1
+IMS_profilesV2:json:["IR92"]
+supported_networks:json:["LTE"]
+PCSCF_discoveryV2:json:["PCO"]
+SDK_Config::3GPP
+IMS_always_on:b:true

@@ -1,0 +1,8 @@
+===DISABLE_ISOLATED_PROVIDER
+Invalid argument.
+No entry.
+===ENABLE_ISOLATED_PROVIDER
+===MAIN_STACK_UNCHANGED
+[PID] /base/sbin/io-pkt-v6-hc -U 82:82,120 -ptcpip gtimerlib=libgtimer-dll.so.1,ipsec,pfil_ipsec,random,tickstop_max=300,stacksize=4864,min_fperms,rgroup_allowed,mfib_enable,mfib_gid_map=750=0;751=1;753=3;754=4;765=15
+[PID] /var/tmp/volte-isolated-io-pkt -i91 -ptcpip prefix=/var/tmp/volte-isolated,ipsec,random,stacksize=4864
+21627122 grep io-pkt

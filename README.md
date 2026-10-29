@@ -2,6 +2,9 @@
 
 **Research handoff, 28 October 2026.** [中文说明](README.zh-CN.md)
 
+**NOTICE**
+If you want a ready-to-use solution, check out Oleksandr's BB10 VoLTE Addon [here](https://github.com/bb10root/bb10-volte)
+
 This repository collects the source, configuration changes, selected evidence,
 and limitations from experiments on BB10 **10.3.3.3216**. It is intended to let
 other researchers reproduce and investigate the work, including Oleksandr,

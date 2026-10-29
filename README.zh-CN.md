@@ -2,6 +2,8 @@
 
 [English — default documentation](README.md)
 
+**注意** 如果你想直接使用 请参见Oleksandr的成果:https://github.com/bb10root/bb10-volte
+
 本资料包整理了 BB10 10.3.3.3216 上的 VoLTE 实验、源码、配置、脱敏证据、失败边界，以及来自其他研究者的联通移植包。感谢 Oleksandr 的 [BB10 root 研究](https://bb10.root.sx/) 提供了研究所需的权限基础。
 
 ## 当前结果
